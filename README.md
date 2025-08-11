@@ -41,9 +41,7 @@ JavaFX SDK configured in your IDE or build system.
 
 Clone this repository:
 
-bash
-Copy
-Edit
+
 git clone https://github.com/your-username/bmi-calculator-javafx.git
 cd bmi-calculator-javafx
 Compile and run the project using your IDE (IntelliJ, Eclipse, etc.) or via command line with JavaFX dependencies.
