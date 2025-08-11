@@ -62,10 +62,9 @@ Height: 70.5
 
 Output:
 
-vbnet
-Copy
-Edit
+
 Your BMI IS: 29.00
+
 🛠 Technologies Used
 Java (version 21+)
 
