@@ -49,7 +49,9 @@ cd bmi-calculator-javafx
 Compile and run the project using your IDE (IntelliJ, Eclipse, etc.) or via command line with JavaFX dependencies.
 
 🖼 Screenshot
-(Add a screenshot of your app here)
+
+<img width="474" height="418" alt="image" src="https://github.com/user-attachments/assets/5f4411fb-5e99-4078-8a60-2bfc4dd5ce71" />
+
 
 📚 Example Usage
 Input:
